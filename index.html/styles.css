@@ -3,8 +3,8 @@
 :root {
   --primary-color: #1eff00;
   --primary-color-dark: #1eff00;
-  --secondary-color:#1eff00;
-  --text-dark: #000000;
+  --secondary-color: #1eff00;
+  --text-dark: #1eff00;
   --text-light: #ffffff;
   --max-width: 1200px;
 }
